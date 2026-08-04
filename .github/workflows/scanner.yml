@@ -40,10 +40,14 @@ jobs:
             python scanner_worker.py --mode prime
           fi
 
-      - name: 💾 Commit Updated Cache Back to Repo
+    - name: 💾 Commit Updated Cache Back to Repo
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add cache_inventory.json tracker_alert_state.json odyssey_scan_history.txt || true
+          git add cache_inventory.json || true
+          git add tracker_alert_state.json || true
+          git add odyssey_scan_history.txt || true
+          git commit -m "auto: refresh seat map cache [skip ci]" || exit 0
+          git push          git add cache_inventory.json tracker_alert_state.json odyssey_scan_history.txt || true
           git commit -m "auto: refresh seat map cache [skip ci]" || exit 0
           git push
