@@ -11,6 +11,8 @@ on:
 jobs:
   scan-inventory:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: 📥 Checkout Repository Code
@@ -30,7 +32,6 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: |
-          # If triggered at 11:00 or 23:00 UTC (6 AM / 6 PM Central), run FULL sweep
           HOUR=$(date -u +%H)
           if [ "$HOUR" = "11" ] || [ "$HOUR" = "23" ]; then
             echo "Running Full Sweep (Priorities 1-4)..."
@@ -40,14 +41,12 @@ jobs:
             python scanner_worker.py --mode prime
           fi
 
-    - name: 💾 Commit Updated Cache Back to Repo
+      - name: 💾 Commit Updated Cache Back to Repo
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add cache_inventory.json || true
           git add tracker_alert_state.json || true
           git add odyssey_scan_history.txt || true
-          git commit -m "auto: refresh seat map cache [skip ci]" || exit 0
-          git push          git add cache_inventory.json tracker_alert_state.json odyssey_scan_history.txt || true
           git commit -m "auto: refresh seat map cache [skip ci]" || exit 0
           git push
