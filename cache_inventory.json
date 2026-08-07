@@ -1,6 +1,6 @@
 {
-  "last_updated_iso": "2026-08-07T12:40:12.043233-05:00",
-  "last_updated_display": "Fri, Aug 07, 2026 at 12:40 PM CDT",
+  "last_updated_iso": "2026-08-07T16:28:31.640520-05:00",
+  "last_updated_display": "Fri, Aug 07, 2026 at 04:28 PM CDT",
   "blocks_scanned": [
     1,
     2,
@@ -11,7 +11,7 @@
     2,
     3
   ],
-  "total_scanned_count": 38,
+  "total_scanned_count": 5,
   "showtimes": [
     {
       "block": 1,
@@ -5762,18 +5762,9 @@
       "is_weekend": true,
       "priority_tier": 2,
       "priority_label": "Priority 2 (Friday Evening)",
-      "total_std_open": 1,
-      "best_row_desc": "Row B [FRONT/MID] (1 open, 0 pair(s))",
-      "rows_breakdown": {
-        "B": {
-          "open_count": 1,
-          "pairs": 0,
-          "is_back_row": false,
-          "seats": [
-            13
-          ]
-        }
-      },
+      "total_std_open": 0,
+      "best_row_desc": "Sold Out",
+      "rows_breakdown": {},
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=635625&CinemarkMovieId=104867&Showtime=2026-08-07T19:00:00"
@@ -5969,6 +5960,23 @@
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=640517&CinemarkMovieId=104867&Showtime=2026-08-17T19:00:00"
+    },
+    {
+      "block": 1,
+      "showtime_id": "635632",
+      "date_iso": "2026-08-08",
+      "date_display": "Sat, Aug 08",
+      "time_display": "11:30 AM",
+      "day_name": "Saturday",
+      "is_weekend": true,
+      "priority_tier": 1,
+      "priority_label": "Priority 1 (Weekend Prime)",
+      "total_std_open": 0,
+      "best_row_desc": "Sold Out",
+      "rows_breakdown": {},
+      "prime_back_row_pairs": [],
+      "has_back_row_pair": false,
+      "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=635632&CinemarkMovieId=104867&Showtime=2026-08-08T11:30:00"
     }
   ]
 }
