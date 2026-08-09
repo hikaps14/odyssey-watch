@@ -1,6 +1,6 @@
 {
-  "last_updated_iso": "2026-08-09T06:23:20.396682-05:00",
-  "last_updated_display": "Sun, Aug 09, 2026 at 06:23 AM CDT",
+  "last_updated_iso": "2026-08-09T08:41:19.481672-05:00",
+  "last_updated_display": "Sun, Aug 09, 2026 at 08:41 AM CDT",
   "blocks_scanned": [
     1,
     2,
@@ -9,10 +9,9 @@
   "allowed_priorities": [
     1,
     2,
-    3,
-    4
+    3
   ],
-  "total_scanned_count": 147,
+  "total_scanned_count": 41,
   "showtimes": [
     {
       "block": 1,
@@ -762,9 +761,44 @@
       "is_weekend": true,
       "priority_tier": 2,
       "priority_label": "Priority 2 (Friday Evening)",
-      "total_std_open": 0,
-      "best_row_desc": "Sold Out",
-      "rows_breakdown": {},
+      "total_std_open": 20,
+      "best_row_desc": "Row B [FRONT/MID] (5 open, 3 pair(s))",
+      "rows_breakdown": {
+        "B": {
+          "open_count": 5,
+          "pairs": 3,
+          "is_back_row": false,
+          "seats": [
+            8,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        "A": {
+          "open_count": 15,
+          "pairs": 13,
+          "is_back_row": false,
+          "seats": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        }
+      },
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641774&CinemarkMovieId=104867&Showtime=2026-09-04T19:15:00"
@@ -779,9 +813,38 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 0,
-      "best_row_desc": "Sold Out",
-      "rows_breakdown": {},
+      "total_std_open": 14,
+      "best_row_desc": "Row B [FRONT/MID] (2 open, 0 pair(s))",
+      "rows_breakdown": {
+        "B": {
+          "open_count": 2,
+          "pairs": 0,
+          "is_back_row": false,
+          "seats": [
+            5,
+            21
+          ]
+        },
+        "A": {
+          "open_count": 12,
+          "pairs": 10,
+          "is_back_row": false,
+          "seats": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        }
+      },
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641778&CinemarkMovieId=104867&Showtime=2026-09-05T11:45:00"
@@ -796,9 +859,42 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 0,
-      "best_row_desc": "Sold Out",
-      "rows_breakdown": {},
+      "total_std_open": 18,
+      "best_row_desc": "Row B [FRONT/MID] (4 open, 2 pair(s))",
+      "rows_breakdown": {
+        "B": {
+          "open_count": 4,
+          "pairs": 2,
+          "is_back_row": false,
+          "seats": [
+            5,
+            6,
+            7,
+            23
+          ]
+        },
+        "A": {
+          "open_count": 14,
+          "pairs": 12,
+          "is_back_row": false,
+          "seats": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        }
+      },
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641779&CinemarkMovieId=104867&Showtime=2026-09-05T15:30:00"
@@ -813,9 +909,45 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 0,
-      "best_row_desc": "Sold Out",
-      "rows_breakdown": {},
+      "total_std_open": 14,
+      "best_row_desc": "Row C [FRONT/MID] (1 open, 0 pair(s))",
+      "rows_breakdown": {
+        "C": {
+          "open_count": 1,
+          "pairs": 0,
+          "is_back_row": false,
+          "seats": [
+            4
+          ]
+        },
+        "B": {
+          "open_count": 1,
+          "pairs": 0,
+          "is_back_row": false,
+          "seats": [
+            5
+          ]
+        },
+        "A": {
+          "open_count": 12,
+          "pairs": 10,
+          "is_back_row": false,
+          "seats": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        }
+      },
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641780&CinemarkMovieId=104867&Showtime=2026-09-05T19:15:00"
@@ -830,9 +962,51 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 0,
-      "best_row_desc": "Sold Out",
-      "rows_breakdown": {},
+      "total_std_open": 20,
+      "best_row_desc": "Row C [FRONT/MID] (1 open, 0 pair(s))",
+      "rows_breakdown": {
+        "C": {
+          "open_count": 1,
+          "pairs": 0,
+          "is_back_row": false,
+          "seats": [
+            24
+          ]
+        },
+        "B": {
+          "open_count": 5,
+          "pairs": 3,
+          "is_back_row": false,
+          "seats": [
+            7,
+            8,
+            21,
+            22,
+            23
+          ]
+        },
+        "A": {
+          "open_count": 14,
+          "pairs": 12,
+          "is_back_row": false,
+          "seats": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        }
+      },
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641784&CinemarkMovieId=104867&Showtime=2026-09-06T11:45:00"
@@ -847,9 +1021,42 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 0,
-      "best_row_desc": "Sold Out",
-      "rows_breakdown": {},
+      "total_std_open": 18,
+      "best_row_desc": "Row B [FRONT/MID] (2 open, 1 pair(s))",
+      "rows_breakdown": {
+        "B": {
+          "open_count": 2,
+          "pairs": 1,
+          "is_back_row": false,
+          "seats": [
+            5,
+            6
+          ]
+        },
+        "A": {
+          "open_count": 16,
+          "pairs": 15,
+          "is_back_row": false,
+          "seats": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        }
+      },
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641785&CinemarkMovieId=104867&Showtime=2026-09-06T15:30:00"
@@ -864,9 +1071,50 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 0,
-      "best_row_desc": "Sold Out",
-      "rows_breakdown": {},
+      "total_std_open": 19,
+      "best_row_desc": "Row C [FRONT/MID] (1 open, 0 pair(s))",
+      "rows_breakdown": {
+        "C": {
+          "open_count": 1,
+          "pairs": 0,
+          "is_back_row": false,
+          "seats": [
+            4
+          ]
+        },
+        "B": {
+          "open_count": 2,
+          "pairs": 0,
+          "is_back_row": false,
+          "seats": [
+            5,
+            18
+          ]
+        },
+        "A": {
+          "open_count": 16,
+          "pairs": 15,
+          "is_back_row": false,
+          "seats": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        }
+      },
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641786&CinemarkMovieId=104867&Showtime=2026-09-06T19:15:00"
@@ -881,9 +1129,49 @@
       "is_weekend": false,
       "priority_tier": 3,
       "priority_label": "Priority 3 (Mon/Thu Matinee)",
-      "total_std_open": 0,
-      "best_row_desc": "Sold Out",
-      "rows_breakdown": {},
+      "total_std_open": 18,
+      "best_row_desc": "Row C [FRONT/MID] (1 open, 0 pair(s))",
+      "rows_breakdown": {
+        "C": {
+          "open_count": 1,
+          "pairs": 0,
+          "is_back_row": false,
+          "seats": [
+            4
+          ]
+        },
+        "B": {
+          "open_count": 6,
+          "pairs": 4,
+          "is_back_row": false,
+          "seats": [
+            5,
+            6,
+            7,
+            8,
+            22,
+            23
+          ]
+        },
+        "A": {
+          "open_count": 11,
+          "pairs": 8,
+          "is_back_row": false,
+          "seats": [
+            7,
+            8,
+            9,
+            10,
+            14,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        }
+      },
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641808&CinemarkMovieId=104867&Showtime=2026-09-07T11:45:00"
@@ -898,9 +1186,71 @@
       "is_weekend": false,
       "priority_tier": 3,
       "priority_label": "Priority 3 (Mon/Thu Matinee)",
-      "total_std_open": 0,
-      "best_row_desc": "Sold Out",
-      "rows_breakdown": {},
+      "total_std_open": 40,
+      "best_row_desc": "Row C [FRONT/MID] (6 open, 4 pair(s))",
+      "rows_breakdown": {
+        "C": {
+          "open_count": 6,
+          "pairs": 4,
+          "is_back_row": false,
+          "seats": [
+            4,
+            5,
+            6,
+            22,
+            23,
+            24
+          ]
+        },
+        "B": {
+          "open_count": 18,
+          "pairs": 16,
+          "is_back_row": false,
+          "seats": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        "A": {
+          "open_count": 16,
+          "pairs": 15,
+          "is_back_row": false,
+          "seats": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        }
+      },
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641823&CinemarkMovieId=104867&Showtime=2026-09-10T11:45:00"
@@ -915,9 +1265,50 @@
       "is_weekend": true,
       "priority_tier": 2,
       "priority_label": "Priority 2 (Friday Evening)",
-      "total_std_open": 0,
-      "best_row_desc": "Sold Out",
-      "rows_breakdown": {},
+      "total_std_open": 19,
+      "best_row_desc": "Row C [FRONT/MID] (1 open, 0 pair(s))",
+      "rows_breakdown": {
+        "C": {
+          "open_count": 1,
+          "pairs": 0,
+          "is_back_row": false,
+          "seats": [
+            4
+          ]
+        },
+        "B": {
+          "open_count": 4,
+          "pairs": 1,
+          "is_back_row": false,
+          "seats": [
+            8,
+            9,
+            11,
+            23
+          ]
+        },
+        "A": {
+          "open_count": 14,
+          "pairs": 12,
+          "is_back_row": false,
+          "seats": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        }
+      },
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641792&CinemarkMovieId=104867&Showtime=2026-09-11T19:15:00"
@@ -932,9 +1323,41 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 0,
-      "best_row_desc": "Sold Out",
-      "rows_breakdown": {},
+      "total_std_open": 17,
+      "best_row_desc": "Row B [FRONT/MID] (1 open, 0 pair(s))",
+      "rows_breakdown": {
+        "B": {
+          "open_count": 1,
+          "pairs": 0,
+          "is_back_row": false,
+          "seats": [
+            5
+          ]
+        },
+        "A": {
+          "open_count": 16,
+          "pairs": 15,
+          "is_back_row": false,
+          "seats": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        }
+      },
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641796&CinemarkMovieId=104867&Showtime=2026-09-12T11:45:00"
@@ -949,9 +1372,53 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 0,
-      "best_row_desc": "Sold Out",
-      "rows_breakdown": {},
+      "total_std_open": 22,
+      "best_row_desc": "Row C [FRONT/MID] (1 open, 0 pair(s))",
+      "rows_breakdown": {
+        "C": {
+          "open_count": 1,
+          "pairs": 0,
+          "is_back_row": false,
+          "seats": [
+            4
+          ]
+        },
+        "B": {
+          "open_count": 5,
+          "pairs": 3,
+          "is_back_row": false,
+          "seats": [
+            5,
+            6,
+            21,
+            22,
+            23
+          ]
+        },
+        "A": {
+          "open_count": 16,
+          "pairs": 15,
+          "is_back_row": false,
+          "seats": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        }
+      },
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641797&CinemarkMovieId=104867&Showtime=2026-09-12T15:30:00"
@@ -966,9 +1433,39 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 0,
-      "best_row_desc": "Sold Out",
-      "rows_breakdown": {},
+      "total_std_open": 15,
+      "best_row_desc": "Row B [FRONT/MID] (3 open, 2 pair(s))",
+      "rows_breakdown": {
+        "B": {
+          "open_count": 3,
+          "pairs": 2,
+          "is_back_row": false,
+          "seats": [
+            5,
+            6,
+            7
+          ]
+        },
+        "A": {
+          "open_count": 12,
+          "pairs": 10,
+          "is_back_row": false,
+          "seats": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            19,
+            20,
+            21,
+            22
+          ]
+        }
+      },
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641798&CinemarkMovieId=104867&Showtime=2026-09-12T19:15:00"
@@ -983,9 +1480,38 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 0,
-      "best_row_desc": "Sold Out",
-      "rows_breakdown": {},
+      "total_std_open": 14,
+      "best_row_desc": "Row B [FRONT/MID] (2 open, 0 pair(s))",
+      "rows_breakdown": {
+        "B": {
+          "open_count": 2,
+          "pairs": 0,
+          "is_back_row": false,
+          "seats": [
+            7,
+            23
+          ]
+        },
+        "A": {
+          "open_count": 12,
+          "pairs": 10,
+          "is_back_row": false,
+          "seats": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            19,
+            20,
+            21,
+            22
+          ]
+        }
+      },
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641802&CinemarkMovieId=104867&Showtime=2026-09-13T11:45:00"
@@ -1000,9 +1526,33 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 0,
-      "best_row_desc": "Sold Out",
-      "rows_breakdown": {},
+      "total_std_open": 16,
+      "best_row_desc": "Row A [FRONT/MID] (16 open, 15 pair(s))",
+      "rows_breakdown": {
+        "A": {
+          "open_count": 16,
+          "pairs": 15,
+          "is_back_row": false,
+          "seats": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        }
+      },
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641803&CinemarkMovieId=104867&Showtime=2026-09-13T15:30:00"
@@ -1017,9 +1567,49 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 0,
-      "best_row_desc": "Sold Out",
-      "rows_breakdown": {},
+      "total_std_open": 25,
+      "best_row_desc": "Row B [FRONT/MID] (9 open, 6 pair(s))",
+      "rows_breakdown": {
+        "B": {
+          "open_count": 9,
+          "pairs": 6,
+          "is_back_row": false,
+          "seats": [
+            5,
+            6,
+            7,
+            17,
+            18,
+            19,
+            21,
+            22,
+            23
+          ]
+        },
+        "A": {
+          "open_count": 16,
+          "pairs": 15,
+          "is_back_row": false,
+          "seats": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        }
+      },
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641804&CinemarkMovieId=104867&Showtime=2026-09-13T19:15:00"
@@ -1034,9 +1624,82 @@
       "is_weekend": false,
       "priority_tier": 3,
       "priority_label": "Priority 3 (Mon/Thu Matinee)",
-      "total_std_open": 0,
-      "best_row_desc": "Sold Out",
-      "rows_breakdown": {},
+      "total_std_open": 44,
+      "best_row_desc": "Row D [FRONT/MID] (1 open, 0 pair(s))",
+      "rows_breakdown": {
+        "D": {
+          "open_count": 1,
+          "pairs": 0,
+          "is_back_row": false,
+          "seats": [
+            24
+          ]
+        },
+        "C": {
+          "open_count": 9,
+          "pairs": 7,
+          "is_back_row": false,
+          "seats": [
+            4,
+            5,
+            6,
+            7,
+            20,
+            21,
+            22,
+            23,
+            24
+          ]
+        },
+        "B": {
+          "open_count": 18,
+          "pairs": 16,
+          "is_back_row": false,
+          "seats": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        "A": {
+          "open_count": 16,
+          "pairs": 15,
+          "is_back_row": false,
+          "seats": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        }
+      },
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641828&CinemarkMovieId=104867&Showtime=2026-09-14T11:45:00"
