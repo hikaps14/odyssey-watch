@@ -1,6 +1,6 @@
 {
-  "last_updated_iso": "2026-08-10T09:13:04.031449-05:00",
-  "last_updated_display": "Mon, Aug 10, 2026 at 09:13 AM CDT",
+  "last_updated_iso": "2026-08-10T12:43:09.012418-05:00",
+  "last_updated_display": "Mon, Aug 10, 2026 at 12:43 PM CDT",
   "blocks_scanned": [
     1,
     2,
@@ -11,7 +11,7 @@
     2,
     3
   ],
-  "total_scanned_count": 40,
+  "total_scanned_count": 39,
   "showtimes": [
     {
       "block": 1,
@@ -74,16 +74,15 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 2,
-      "best_row_desc": "Row A [FRONT/MID] (2 open, 0 pair(s))",
+      "total_std_open": 1,
+      "best_row_desc": "Row A [FRONT/MID] (1 open, 0 pair(s))",
       "rows_breakdown": {
         "A": {
-          "open_count": 2,
+          "open_count": 1,
           "pairs": 0,
           "is_back_row": false,
           "seats": [
-            11,
-            22
+            11
           ]
         }
       },
@@ -101,17 +100,9 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 2,
-      "best_row_desc": "Row C [FRONT/MID] (1 open, 0 pair(s))",
+      "total_std_open": 1,
+      "best_row_desc": "Row A [FRONT/MID] (1 open, 0 pair(s))",
       "rows_breakdown": {
-        "C": {
-          "open_count": 1,
-          "pairs": 0,
-          "is_back_row": false,
-          "seats": [
-            16
-          ]
-        },
         "A": {
           "open_count": 1,
           "pairs": 0,
@@ -905,16 +896,14 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 19,
-      "best_row_desc": "Row B [FRONT/MID] (5 open, 3 pair(s))",
+      "total_std_open": 17,
+      "best_row_desc": "Row B [FRONT/MID] (3 open, 2 pair(s))",
       "rows_breakdown": {
         "B": {
-          "open_count": 5,
-          "pairs": 3,
+          "open_count": 3,
+          "pairs": 2,
           "is_back_row": false,
           "seats": [
-            7,
-            8,
             21,
             22,
             23
@@ -1113,7 +1102,7 @@
       "is_weekend": false,
       "priority_tier": 3,
       "priority_label": "Priority 3 (Mon/Thu Matinee)",
-      "total_std_open": 40,
+      "total_std_open": 37,
       "best_row_desc": "Row C [FRONT/MID] (6 open, 4 pair(s))",
       "rows_breakdown": {
         "C": {
@@ -1155,8 +1144,8 @@
           ]
         },
         "A": {
-          "open_count": 16,
-          "pairs": 15,
+          "open_count": 13,
+          "pairs": 11,
           "is_back_row": false,
           "seats": [
             7,
@@ -1164,9 +1153,6 @@
             9,
             10,
             11,
-            12,
-            13,
-            14,
             15,
             16,
             17,
@@ -1192,9 +1178,17 @@
       "is_weekend": true,
       "priority_tier": 2,
       "priority_label": "Priority 2 (Friday Evening)",
-      "total_std_open": 17,
-      "best_row_desc": "Row B [FRONT/MID] (3 open, 1 pair(s))",
+      "total_std_open": 18,
+      "best_row_desc": "Row C [FRONT/MID] (1 open, 0 pair(s))",
       "rows_breakdown": {
+        "C": {
+          "open_count": 1,
+          "pairs": 0,
+          "is_back_row": false,
+          "seats": [
+            4
+          ]
+        },
         "B": {
           "open_count": 3,
           "pairs": 1,
@@ -1290,7 +1284,7 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 22,
+      "total_std_open": 20,
       "best_row_desc": "Row C [FRONT/MID] (1 open, 0 pair(s))",
       "rows_breakdown": {
         "C": {
@@ -1302,15 +1296,13 @@
           ]
         },
         "B": {
-          "open_count": 5,
-          "pairs": 3,
+          "open_count": 3,
+          "pairs": 1,
           "is_back_row": false,
           "seats": [
             5,
             6,
-            21,
-            22,
-            23
+            21
           ]
         },
         "A": {
@@ -1540,18 +1532,9 @@
       "is_weekend": false,
       "priority_tier": 3,
       "priority_label": "Priority 3 (Mon/Thu Matinee)",
-      "total_std_open": 32,
-      "best_row_desc": "Row C [FRONT/MID] (2 open, 1 pair(s))",
+      "total_std_open": 30,
+      "best_row_desc": "Row B [FRONT/MID] (14 open, 12 pair(s))",
       "rows_breakdown": {
-        "C": {
-          "open_count": 2,
-          "pairs": 1,
-          "is_back_row": false,
-          "seats": [
-            4,
-            5
-          ]
-        },
         "B": {
           "open_count": 14,
           "pairs": 12,
@@ -5390,6 +5373,32 @@
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=635640&CinemarkMovieId=104867&Showtime=2026-08-10T19:00:00"
+    },
+    {
+      "block": 1,
+      "showtime_id": "640515",
+      "date_iso": "2026-08-17",
+      "date_display": "Mon, Aug 17",
+      "time_display": "11:30 AM",
+      "day_name": "Monday",
+      "is_weekend": false,
+      "priority_tier": 3,
+      "priority_label": "Priority 3 (Mon/Thu Matinee)",
+      "total_std_open": 1,
+      "best_row_desc": "Row K [PREFERRED BACK] (1 open, 0 pair(s))",
+      "rows_breakdown": {
+        "K": {
+          "open_count": 1,
+          "pairs": 0,
+          "is_back_row": true,
+          "seats": [
+            18
+          ]
+        }
+      },
+      "prime_back_row_pairs": [],
+      "has_back_row_pair": false,
+      "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=640515&CinemarkMovieId=104867&Showtime=2026-08-17T11:30:00"
     }
   ]
 }
