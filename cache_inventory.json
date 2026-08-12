@@ -1,6 +1,6 @@
 {
-  "last_updated_iso": "2026-08-12T09:13:31.580180-05:00",
-  "last_updated_display": "Wed, Aug 12, 2026 at 09:13 AM CDT",
+  "last_updated_iso": "2026-08-12T12:50:56.198765-05:00",
+  "last_updated_display": "Wed, Aug 12, 2026 at 12:50 PM CDT",
   "blocks_scanned": [
     1,
     2,
@@ -11,7 +11,7 @@
     2,
     3
   ],
-  "total_scanned_count": 36,
+  "total_scanned_count": 35,
   "showtimes": [
     {
       "block": 1,
@@ -756,7 +756,7 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 16,
+      "total_std_open": 15,
       "best_row_desc": "Row B [FRONT/MID] (2 open, 0 pair(s))",
       "rows_breakdown": {
         "B": {
@@ -769,8 +769,8 @@
           ]
         },
         "A": {
-          "open_count": 14,
-          "pairs": 12,
+          "open_count": 13,
+          "pairs": 10,
           "is_back_row": false,
           "seats": [
             7,
@@ -782,7 +782,6 @@
             13,
             16,
             17,
-            18,
             19,
             20,
             21,
@@ -4642,19 +4641,9 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 2,
-      "best_row_desc": "Row A [FRONT/MID] (2 open, 1 pair(s))",
-      "rows_breakdown": {
-        "A": {
-          "open_count": 2,
-          "pairs": 1,
-          "is_back_row": false,
-          "seats": [
-            16,
-            17
-          ]
-        }
-      },
+      "total_std_open": 0,
+      "best_row_desc": "Sold Out",
+      "rows_breakdown": {},
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=640499&CinemarkMovieId=104867&Showtime=2026-08-16T11:30:00"
