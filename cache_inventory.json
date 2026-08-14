@@ -1,6 +1,6 @@
 {
-  "last_updated_iso": "2026-08-14T12:44:29.078837-05:00",
-  "last_updated_display": "Fri, Aug 14, 2026 at 12:44 PM CDT",
+  "last_updated_iso": "2026-08-14T16:16:11.990587-05:00",
+  "last_updated_display": "Fri, Aug 14, 2026 at 04:16 PM CDT",
   "blocks_scanned": [
     1,
     2,
@@ -11,7 +11,7 @@
     2,
     3
   ],
-  "total_scanned_count": 33,
+  "total_scanned_count": 40,
   "showtimes": [
     {
       "block": 1,
@@ -110,18 +110,9 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 1,
-      "best_row_desc": "Row A [FRONT/MID] (1 open, 0 pair(s))",
-      "rows_breakdown": {
-        "A": {
-          "open_count": 1,
-          "pairs": 0,
-          "is_back_row": false,
-          "seats": [
-            22
-          ]
-        }
-      },
+      "total_std_open": 0,
+      "best_row_desc": "Sold Out",
+      "rows_breakdown": {},
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641699&CinemarkMovieId=104867&Showtime=2026-08-22T15:30:00"
@@ -180,18 +171,9 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 1,
-      "best_row_desc": "Row A [FRONT/MID] (1 open, 0 pair(s))",
-      "rows_breakdown": {
-        "A": {
-          "open_count": 1,
-          "pairs": 0,
-          "is_back_row": false,
-          "seats": [
-            22
-          ]
-        }
-      },
+      "total_std_open": 0,
+      "best_row_desc": "Sold Out",
+      "rows_breakdown": {},
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641705&CinemarkMovieId=104867&Showtime=2026-08-23T15:30:00"
@@ -557,18 +539,9 @@
       "is_weekend": false,
       "priority_tier": 3,
       "priority_label": "Priority 3 (Mon/Thu Matinee)",
-      "total_std_open": 35,
-      "best_row_desc": "Row C [FRONT/MID] (2 open, 1 pair(s))",
+      "total_std_open": 33,
+      "best_row_desc": "Row B [FRONT/MID] (17 open, 15 pair(s))",
       "rows_breakdown": {
-        "C": {
-          "open_count": 2,
-          "pairs": 1,
-          "is_back_row": false,
-          "seats": [
-            4,
-            5
-          ]
-        },
         "B": {
           "open_count": 17,
           "pairs": 15,
@@ -631,16 +604,15 @@
       "is_weekend": true,
       "priority_tier": 2,
       "priority_label": "Priority 2 (Friday Evening)",
-      "total_std_open": 9,
-      "best_row_desc": "Row B [FRONT/MID] (2 open, 0 pair(s))",
+      "total_std_open": 8,
+      "best_row_desc": "Row B [FRONT/MID] (1 open, 0 pair(s))",
       "rows_breakdown": {
         "B": {
-          "open_count": 2,
+          "open_count": 1,
           "pairs": 0,
           "is_back_row": false,
           "seats": [
-            8,
-            20
+            8
           ]
         },
         "A": {
@@ -1432,7 +1404,7 @@
     {
       "block": 1,
       "showtime_id": "640195",
-      "date_iso": "2026-08-14",
+      "date_iso": "2026-08-13",
       "date_display": "Fri, Aug 14",
       "time_display": "07:00 PM",
       "day_name": "Friday",
