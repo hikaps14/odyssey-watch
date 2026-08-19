@@ -1,6 +1,6 @@
 {
-  "last_updated_iso": "2026-08-19T12:17:55.449990-05:00",
-  "last_updated_display": "Wed, Aug 19, 2026 at 12:17 PM CDT",
+  "last_updated_iso": "2026-08-19T16:16:08.468754-05:00",
+  "last_updated_display": "Wed, Aug 19, 2026 at 04:16 PM CDT",
   "blocks_scanned": [
     1,
     2,
@@ -11,7 +11,7 @@
     2,
     3
   ],
-  "total_scanned_count": 31,
+  "total_scanned_count": 32,
   "showtimes": [
     {
       "block": 1,
@@ -459,12 +459,12 @@
       "is_weekend": false,
       "priority_tier": 3,
       "priority_label": "Priority 3 (Mon/Thu Matinee)",
-      "total_std_open": 32,
-      "best_row_desc": "Row B [FRONT/MID] (16 open, 14 pair(s))",
+      "total_std_open": 27,
+      "best_row_desc": "Row B [FRONT/MID] (11 open, 9 pair(s))",
       "rows_breakdown": {
         "B": {
-          "open_count": 16,
-          "pairs": 14,
+          "open_count": 11,
+          "pairs": 9,
           "is_back_row": false,
           "seats": [
             5,
@@ -474,11 +474,6 @@
             9,
             10,
             11,
-            12,
-            13,
-            16,
-            17,
-            18,
             19,
             20,
             21,
@@ -1030,9 +1025,9 @@
           "pairs": 2,
           "is_back_row": false,
           "seats": [
-            7,
-            8,
-            9,
+            12,
+            13,
+            14,
             19
           ]
         }
@@ -1090,7 +1085,7 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 14,
+      "total_std_open": 13,
       "best_row_desc": "Row B [FRONT/MID] (1 open, 0 pair(s))",
       "rows_breakdown": {
         "B": {
@@ -1102,8 +1097,8 @@
           ]
         },
         "A": {
-          "open_count": 13,
-          "pairs": 11,
+          "open_count": 12,
+          "pairs": 10,
           "is_back_row": false,
           "seats": [
             7,
@@ -1113,7 +1108,6 @@
             11,
             12,
             13,
-            17,
             18,
             19,
             20,
