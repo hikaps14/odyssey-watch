@@ -1,6 +1,6 @@
 {
-  "last_updated_iso": "2026-08-19T16:16:08.468754-05:00",
-  "last_updated_display": "Wed, Aug 19, 2026 at 04:16 PM CDT",
+  "last_updated_iso": "2026-08-19T18:17:37.803158-05:00",
+  "last_updated_display": "Wed, Aug 19, 2026 at 06:17 PM CDT",
   "blocks_scanned": [
     1,
     2,
@@ -9,9 +9,10 @@
   "allowed_priorities": [
     1,
     2,
-    3
+    3,
+    4
   ],
-  "total_scanned_count": 32,
+  "total_scanned_count": 0,
   "showtimes": [
     {
       "block": 1,
