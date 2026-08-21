@@ -1,6 +1,6 @@
 {
-  "last_updated_iso": "2026-08-21T12:19:32.835707-05:00",
-  "last_updated_display": "Fri, Aug 21, 2026 at 12:19 PM CDT",
+  "last_updated_iso": "2026-08-21T16:14:17.623751-05:00",
+  "last_updated_display": "Fri, Aug 21, 2026 at 04:14 PM CDT",
   "blocks_scanned": [
     1,
     2,
@@ -48,9 +48,9 @@
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641681&CinemarkMovieId=104867&Showtime=2026-08-20T11:30:00"
     },
     {
-      "block": 2,
+      "block": 1,
       "showtime_id": "641693",
-      "date_iso": "2026-08-21",
+      "date_iso": "2026-08-12",
       "date_display": "Fri, Aug 21",
       "time_display": "07:15 PM",
       "day_name": "Friday",
@@ -74,20 +74,9 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 3,
-      "best_row_desc": "Row A [FRONT/MID] (3 open, 2 pair(s))",
-      "rows_breakdown": {
-        "A": {
-          "open_count": 3,
-          "pairs": 2,
-          "is_back_row": false,
-          "seats": [
-            12,
-            13,
-            14
-          ]
-        }
-      },
+      "total_std_open": 0,
+      "best_row_desc": "Sold Out",
+      "rows_breakdown": {},
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641698&CinemarkMovieId=104867&Showtime=2026-08-22T11:45:00"
@@ -632,19 +621,17 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 7,
-      "best_row_desc": "Row A [FRONT/MID] (7 open, 4 pair(s))",
+      "total_std_open": 5,
+      "best_row_desc": "Row A [FRONT/MID] (5 open, 2 pair(s))",
       "rows_breakdown": {
         "A": {
-          "open_count": 7,
-          "pairs": 4,
+          "open_count": 5,
+          "pairs": 2,
           "is_back_row": false,
           "seats": [
             7,
             9,
             10,
-            11,
-            12,
             19,
             20
           ]
