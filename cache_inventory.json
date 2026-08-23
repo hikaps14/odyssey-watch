@@ -1,6 +1,6 @@
 {
-  "last_updated_iso": "2026-08-23T12:12:27.663975-05:00",
-  "last_updated_display": "Sun, Aug 23, 2026 at 12:12 PM CDT",
+  "last_updated_iso": "2026-08-23T16:12:06.590465-05:00",
+  "last_updated_display": "Sun, Aug 23, 2026 at 04:12 PM CDT",
   "blocks_scanned": [
     1,
     2,
@@ -11,7 +11,7 @@
     2,
     3
   ],
-  "total_scanned_count": 44,
+  "total_scanned_count": 27,
   "showtimes": [
     {
       "block": 1,
@@ -194,9 +194,17 @@
       "is_weekend": false,
       "priority_tier": 3,
       "priority_label": "Priority 3 (Mon/Thu Matinee)",
-      "total_std_open": 5,
-      "best_row_desc": "Row A [FRONT/MID] (5 open, 3 pair(s))",
+      "total_std_open": 6,
+      "best_row_desc": "Row F [PREFERRED BACK] (1 open, 0 pair(s))",
       "rows_breakdown": {
+        "F": {
+          "open_count": 1,
+          "pairs": 0,
+          "is_back_row": true,
+          "seats": [
+            19
+          ]
+        },
         "A": {
           "open_count": 5,
           "pairs": 3,
@@ -545,24 +553,15 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 3,
-      "best_row_desc": "Row B [FRONT/MID] (2 open, 0 pair(s))",
+      "total_std_open": 1,
+      "best_row_desc": "Row B [FRONT/MID] (1 open, 0 pair(s))",
       "rows_breakdown": {
         "B": {
-          "open_count": 2,
-          "pairs": 0,
-          "is_back_row": false,
-          "seats": [
-            5,
-            23
-          ]
-        },
-        "A": {
           "open_count": 1,
           "pairs": 0,
           "is_back_row": false,
           "seats": [
-            7
+            23
           ]
         }
       },
@@ -658,7 +657,7 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 7,
+      "total_std_open": 5,
       "best_row_desc": "Row B [FRONT/MID] (1 open, 0 pair(s))",
       "rows_breakdown": {
         "B": {
@@ -670,14 +669,12 @@
           ]
         },
         "A": {
-          "open_count": 6,
-          "pairs": 4,
+          "open_count": 4,
+          "pairs": 2,
           "is_back_row": false,
           "seats": [
             7,
             8,
-            9,
-            10,
             19,
             20
           ]
