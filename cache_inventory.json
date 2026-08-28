@@ -1,6 +1,6 @@
 {
-  "last_updated_iso": "2026-08-28T01:27:37.836633-05:00",
-  "last_updated_display": "Fri, Aug 28, 2026 at 01:27 AM CDT",
+  "last_updated_iso": "2026-08-28T07:22:25.108149-05:00",
+  "last_updated_display": "Fri, Aug 28, 2026 at 07:22 AM CDT",
   "blocks_scanned": [
     1,
     2,
@@ -11,7 +11,7 @@
     2,
     3
   ],
-  "total_scanned_count": 45,
+  "total_scanned_count": 46,
   "showtimes": [
     {
       "block": 1,
@@ -280,9 +280,19 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 0,
-      "best_row_desc": "Sold Out",
-      "rows_breakdown": {},
+      "total_std_open": 2,
+      "best_row_desc": "Row A [FRONT/MID] (2 open, 1 pair(s))",
+      "rows_breakdown": {
+        "A": {
+          "open_count": 2,
+          "pairs": 1,
+          "is_back_row": false,
+          "seats": [
+            21,
+            22
+          ]
+        }
+      },
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641740&CinemarkMovieId=104867&Showtime=2026-08-29T11:45:00"
@@ -374,17 +384,9 @@
       "is_weekend": false,
       "priority_tier": 3,
       "priority_label": "Priority 3 (Mon/Thu Matinee)",
-      "total_std_open": 22,
-      "best_row_desc": "Row C [FRONT/MID] (1 open, 0 pair(s))",
+      "total_std_open": 21,
+      "best_row_desc": "Row B [FRONT/MID] (7 open, 5 pair(s))",
       "rows_breakdown": {
-        "C": {
-          "open_count": 1,
-          "pairs": 0,
-          "is_back_row": false,
-          "seats": [
-            16
-          ]
-        },
         "B": {
           "open_count": 7,
           "pairs": 5,
@@ -509,18 +511,9 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 3,
-      "best_row_desc": "Row C [FRONT/MID] (2 open, 1 pair(s))",
+      "total_std_open": 1,
+      "best_row_desc": "Row A [FRONT/MID] (1 open, 0 pair(s))",
       "rows_breakdown": {
-        "C": {
-          "open_count": 2,
-          "pairs": 1,
-          "is_back_row": false,
-          "seats": [
-            9,
-            10
-          ]
-        },
         "A": {
           "open_count": 1,
           "pairs": 0,
