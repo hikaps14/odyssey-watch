@@ -1,6 +1,6 @@
 {
-  "last_updated_iso": "2026-08-28T16:18:47.546896-05:00",
-  "last_updated_display": "Fri, Aug 28, 2026 at 04:18 PM CDT",
+  "last_updated_iso": "2026-08-28T17:47:57.716064-05:00",
+  "last_updated_display": "Fri, Aug 28, 2026 at 05:47 PM CDT",
   "blocks_scanned": [
     1,
     2,
@@ -263,9 +263,28 @@
       "is_weekend": true,
       "priority_tier": 2,
       "priority_label": "Priority 2 (Friday Evening)",
-      "total_std_open": 0,
-      "best_row_desc": "Sold Out",
-      "rows_breakdown": {},
+      "total_std_open": 4,
+      "best_row_desc": "Row C [FRONT/MID] (2 open, 1 pair(s))",
+      "rows_breakdown": {
+        "C": {
+          "open_count": 2,
+          "pairs": 1,
+          "is_back_row": false,
+          "seats": [
+            23,
+            24
+          ]
+        },
+        "A": {
+          "open_count": 2,
+          "pairs": 1,
+          "is_back_row": false,
+          "seats": [
+            16,
+            17
+          ]
+        }
+      },
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641736&CinemarkMovieId=104867&Showtime=2026-08-28T19:15:00"
@@ -307,9 +326,18 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 0,
-      "best_row_desc": "Sold Out",
-      "rows_breakdown": {},
+      "total_std_open": 1,
+      "best_row_desc": "Row C [FRONT/MID] (1 open, 0 pair(s))",
+      "rows_breakdown": {
+        "C": {
+          "open_count": 1,
+          "pairs": 0,
+          "is_back_row": false,
+          "seats": [
+            24
+          ]
+        }
+      },
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641741&CinemarkMovieId=104867&Showtime=2026-08-29T15:30:00"
@@ -375,18 +403,16 @@
       "is_weekend": false,
       "priority_tier": 3,
       "priority_label": "Priority 3 (Mon/Thu Matinee)",
-      "total_std_open": 21,
-      "best_row_desc": "Row B [FRONT/MID] (7 open, 5 pair(s))",
+      "total_std_open": 19,
+      "best_row_desc": "Row B [FRONT/MID] (5 open, 3 pair(s))",
       "rows_breakdown": {
         "B": {
-          "open_count": 7,
-          "pairs": 5,
+          "open_count": 5,
+          "pairs": 3,
           "is_back_row": false,
           "seats": [
             5,
             6,
-            7,
-            8,
             21,
             22,
             23
