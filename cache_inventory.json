@@ -1,6 +1,6 @@
 {
-  "last_updated_iso": "2026-08-29T14:33:50.811285-05:00",
-  "last_updated_display": "Sat, Aug 29, 2026 at 02:33 PM CDT",
+  "last_updated_iso": "2026-08-29T17:55:12.032952-05:00",
+  "last_updated_display": "Sat, Aug 29, 2026 at 05:55 PM CDT",
   "blocks_scanned": [
     1,
     2,
@@ -11,7 +11,7 @@
     2,
     3
   ],
-  "total_scanned_count": 30,
+  "total_scanned_count": 35,
   "showtimes": [
     {
       "block": 1,
@@ -345,33 +345,18 @@
     {
       "block": 2,
       "showtime_id": "641742",
-      "date_iso": "2026-08-27",
+      "date_iso": "2026-08-29",
       "date_display": "Sat, Aug 29",
       "time_display": "07:15 PM",
       "day_name": "Saturday",
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 2,
-      "best_row_desc": "Row J [PREFERRED BACK] (2 open, 1 pair(s))",
-      "rows_breakdown": {
-        "J": {
-          "open_count": 2,
-          "pairs": 1,
-          "is_back_row": true,
-          "seats": [
-            25,
-            26
-          ]
-        }
-      },
-      "prime_back_row_pairs": [
-        {
-          "signature": "J-25-26",
-          "label": "Row J: Seats 25 & 26"
-        }
-      ],
-      "has_back_row_pair": true,
+      "total_std_open": 0,
+      "best_row_desc": "Sold Out",
+      "rows_breakdown": {},
+      "prime_back_row_pairs": [],
+      "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641742&CinemarkMovieId=104867&Showtime=2026-08-29T19:15:00"
     },
     {
