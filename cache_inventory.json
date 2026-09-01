@@ -1,6 +1,6 @@
 {
-  "last_updated_iso": "2026-09-01T12:03:31.894800-05:00",
-  "last_updated_display": "Tue, Sep 01, 2026 at 12:03 PM CDT",
+  "last_updated_iso": "2026-09-01T17:53:48.813026-05:00",
+  "last_updated_display": "Tue, Sep 01, 2026 at 05:53 PM CDT",
   "blocks_scanned": [
     1,
     2,
@@ -460,19 +460,17 @@
       "is_weekend": false,
       "priority_tier": 3,
       "priority_label": "Priority 3 (Mon/Thu Matinee)",
-      "total_std_open": 19,
-      "best_row_desc": "Row B [FRONT/MID] (5 open, 3 pair(s))",
+      "total_std_open": 17,
+      "best_row_desc": "Row B [FRONT/MID] (3 open, 2 pair(s))",
       "rows_breakdown": {
         "B": {
-          "open_count": 5,
-          "pairs": 3,
+          "open_count": 3,
+          "pairs": 2,
           "is_back_row": false,
           "seats": [
             5,
             6,
-            7,
-            21,
-            22
+            7
           ]
         },
         "A": {
@@ -675,9 +673,17 @@
       "is_weekend": false,
       "priority_tier": 3,
       "priority_label": "Priority 3 (Mon/Thu Matinee)",
-      "total_std_open": 19,
-      "best_row_desc": "Row B [FRONT/MID] (7 open, 5 pair(s))",
+      "total_std_open": 20,
+      "best_row_desc": "Row C [FRONT/MID] (1 open, 0 pair(s))",
       "rows_breakdown": {
+        "C": {
+          "open_count": 1,
+          "pairs": 0,
+          "is_back_row": false,
+          "seats": [
+            24
+          ]
+        },
         "B": {
           "open_count": 7,
           "pairs": 5,
@@ -811,9 +817,19 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 0,
-      "best_row_desc": "Sold Out",
-      "rows_breakdown": {},
+      "total_std_open": 2,
+      "best_row_desc": "Row B [FRONT/MID] (2 open, 1 pair(s))",
+      "rows_breakdown": {
+        "B": {
+          "open_count": 2,
+          "pairs": 1,
+          "is_back_row": false,
+          "seats": [
+            14,
+            15
+          ]
+        }
+      },
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641798&CinemarkMovieId=104867&Showtime=2026-09-12T19:15:00"
