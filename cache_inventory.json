@@ -1,6 +1,6 @@
 {
-  "last_updated_iso": "2026-09-02T11:55:13.149200-05:00",
-  "last_updated_display": "Wed, Sep 02, 2026 at 11:55 AM CDT",
+  "last_updated_iso": "2026-09-02T14:33:06.720620-05:00",
+  "last_updated_display": "Wed, Sep 02, 2026 at 02:33 PM CDT",
   "blocks_scanned": [
     1,
     2,
@@ -460,7 +460,7 @@
       "is_weekend": false,
       "priority_tier": 3,
       "priority_label": "Priority 3 (Mon/Thu Matinee)",
-      "total_std_open": 21,
+      "total_std_open": 19,
       "best_row_desc": "Row D [FRONT/MID] (2 open, 1 pair(s))",
       "rows_breakdown": {
         "D": {
@@ -470,15 +470,6 @@
           "seats": [
             4,
             5
-          ]
-        },
-        "C": {
-          "open_count": 2,
-          "pairs": 1,
-          "is_back_row": false,
-          "seats": [
-            13,
-            14
           ]
         },
         "B": {
@@ -544,17 +535,15 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 4,
-      "best_row_desc": "Row B [FRONT/MID] (3 open, 1 pair(s))",
+      "total_std_open": 2,
+      "best_row_desc": "Row B [FRONT/MID] (1 open, 0 pair(s))",
       "rows_breakdown": {
         "B": {
-          "open_count": 3,
-          "pairs": 1,
+          "open_count": 1,
+          "pairs": 0,
           "is_back_row": false,
           "seats": [
-            5,
-            16,
-            17
+            5
           ]
         },
         "A": {
@@ -614,17 +603,9 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 2,
-      "best_row_desc": "Row K [PREFERRED BACK] (1 open, 0 pair(s))",
+      "total_std_open": 1,
+      "best_row_desc": "Row A [FRONT/MID] (1 open, 0 pair(s))",
       "rows_breakdown": {
-        "K": {
-          "open_count": 1,
-          "pairs": 0,
-          "is_back_row": true,
-          "seats": [
-            3
-          ]
-        },
         "A": {
           "open_count": 1,
           "pairs": 0,
@@ -922,9 +903,17 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 4,
-      "best_row_desc": "Row A [FRONT/MID] (4 open, 1 pair(s))",
+      "total_std_open": 5,
+      "best_row_desc": "Row K [PREFERRED BACK] (1 open, 0 pair(s))",
       "rows_breakdown": {
+        "K": {
+          "open_count": 1,
+          "pairs": 0,
+          "is_back_row": true,
+          "seats": [
+            1
+          ]
+        },
         "A": {
           "open_count": 4,
           "pairs": 1,
