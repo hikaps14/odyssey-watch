@@ -1,6 +1,6 @@
 {
-  "last_updated_iso": "2026-09-01T19:45:59.403848-05:00",
-  "last_updated_display": "Tue, Sep 01, 2026 at 07:45 PM CDT",
+  "last_updated_iso": "2026-09-02T00:15:00.374568-05:00",
+  "last_updated_display": "Wed, Sep 02, 2026 at 12:15 AM CDT",
   "blocks_scanned": [
     1,
     2,
@@ -526,9 +526,17 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 1,
-      "best_row_desc": "Row A [FRONT/MID] (1 open, 0 pair(s))",
+      "total_std_open": 2,
+      "best_row_desc": "Row B [FRONT/MID] (1 open, 0 pair(s))",
       "rows_breakdown": {
+        "B": {
+          "open_count": 1,
+          "pairs": 0,
+          "is_back_row": false,
+          "seats": [
+            5
+          ]
+        },
         "A": {
           "open_count": 1,
           "pairs": 0,
@@ -552,20 +560,9 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 3,
-      "best_row_desc": "Row C [FRONT/MID] (3 open, 2 pair(s))",
-      "rows_breakdown": {
-        "C": {
-          "open_count": 3,
-          "pairs": 2,
-          "is_back_row": false,
-          "seats": [
-            18,
-            19,
-            20
-          ]
-        }
-      },
+      "total_std_open": 0,
+      "best_row_desc": "Sold Out",
+      "rows_breakdown": {},
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641779&CinemarkMovieId=104867&Showtime=2026-09-05T15:30:00"
@@ -580,18 +577,9 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 1,
-      "best_row_desc": "Row E [FRONT/MID] (1 open, 0 pair(s))",
-      "rows_breakdown": {
-        "E": {
-          "open_count": 1,
-          "pairs": 0,
-          "is_back_row": false,
-          "seats": [
-            24
-          ]
-        }
-      },
+      "total_std_open": 0,
+      "best_row_desc": "Sold Out",
+      "rows_breakdown": {},
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641780&CinemarkMovieId=104867&Showtime=2026-09-05T19:15:00"
@@ -810,9 +798,17 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 2,
-      "best_row_desc": "Row A [FRONT/MID] (2 open, 0 pair(s))",
+      "total_std_open": 3,
+      "best_row_desc": "Row G [PREFERRED BACK] (1 open, 0 pair(s))",
       "rows_breakdown": {
+        "G": {
+          "open_count": 1,
+          "pairs": 0,
+          "is_back_row": true,
+          "seats": [
+            26
+          ]
+        },
         "A": {
           "open_count": 2,
           "pairs": 0,
@@ -837,16 +833,15 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 2,
-      "best_row_desc": "Row B [FRONT/MID] (2 open, 1 pair(s))",
+      "total_std_open": 1,
+      "best_row_desc": "Row A [FRONT/MID] (1 open, 0 pair(s))",
       "rows_breakdown": {
-        "B": {
-          "open_count": 2,
-          "pairs": 1,
+        "A": {
+          "open_count": 1,
+          "pairs": 0,
           "is_back_row": false,
           "seats": [
-            14,
-            15
+            7
           ]
         }
       },
@@ -899,15 +894,17 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 2,
-      "best_row_desc": "Row A [FRONT/MID] (2 open, 0 pair(s))",
+      "total_std_open": 4,
+      "best_row_desc": "Row A [FRONT/MID] (4 open, 1 pair(s))",
       "rows_breakdown": {
         "A": {
-          "open_count": 2,
-          "pairs": 0,
+          "open_count": 4,
+          "pairs": 1,
           "is_back_row": false,
           "seats": [
             7,
+            18,
+            19,
             22
           ]
         }
