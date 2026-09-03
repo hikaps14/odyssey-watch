@@ -1,6 +1,6 @@
 {
-  "last_updated_iso": "2026-09-03T00:20:11.162952-05:00",
-  "last_updated_display": "Thu, Sep 03, 2026 at 12:20 AM CDT",
+  "last_updated_iso": "2026-09-03T09:50:16.627912-05:00",
+  "last_updated_display": "Thu, Sep 03, 2026 at 09:50 AM CDT",
   "blocks_scanned": [
     1,
     2,
@@ -460,25 +460,15 @@
       "is_weekend": false,
       "priority_tier": 3,
       "priority_label": "Priority 3 (Mon/Thu Matinee)",
-      "total_std_open": 18,
-      "best_row_desc": "Row D [FRONT/MID] (1 open, 0 pair(s))",
+      "total_std_open": 15,
+      "best_row_desc": "Row B [FRONT/MID] (1 open, 0 pair(s))",
       "rows_breakdown": {
-        "D": {
+        "B": {
           "open_count": 1,
           "pairs": 0,
           "is_back_row": false,
           "seats": [
             5
-          ]
-        },
-        "B": {
-          "open_count": 3,
-          "pairs": 2,
-          "is_back_row": false,
-          "seats": [
-            5,
-            6,
-            7
           ]
         },
         "A": {
@@ -910,9 +900,19 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 4,
-      "best_row_desc": "Row A [FRONT/MID] (4 open, 1 pair(s))",
+      "total_std_open": 7,
+      "best_row_desc": "Row B [FRONT/MID] (3 open, 2 pair(s))",
       "rows_breakdown": {
+        "B": {
+          "open_count": 3,
+          "pairs": 2,
+          "is_back_row": false,
+          "seats": [
+            19,
+            20,
+            21
+          ]
+        },
         "A": {
           "open_count": 4,
           "pairs": 1,
@@ -977,9 +977,18 @@
       "is_weekend": false,
       "priority_tier": 3,
       "priority_label": "Priority 3 (Mon/Thu Matinee)",
-      "total_std_open": 25,
-      "best_row_desc": "Row B [FRONT/MID] (9 open, 7 pair(s))",
+      "total_std_open": 27,
+      "best_row_desc": "Row F [PREFERRED BACK] (2 open, 1 pair(s))",
       "rows_breakdown": {
+        "F": {
+          "open_count": 2,
+          "pairs": 1,
+          "is_back_row": true,
+          "seats": [
+            20,
+            21
+          ]
+        },
         "B": {
           "open_count": 9,
           "pairs": 7,
@@ -1020,8 +1029,13 @@
           ]
         }
       },
-      "prime_back_row_pairs": [],
-      "has_back_row_pair": false,
+      "prime_back_row_pairs": [
+        {
+          "signature": "F-20-21",
+          "label": "Row F: Seats 20 & 21"
+        }
+      ],
+      "has_back_row_pair": true,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641828&CinemarkMovieId=104867&Showtime=2026-09-14T11:45:00"
     },
     {
