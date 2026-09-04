@@ -1,6 +1,6 @@
 {
-  "last_updated_iso": "2026-09-04T00:14:01.764856-05:00",
-  "last_updated_display": "Fri, Sep 04, 2026 at 12:14 AM CDT",
+  "last_updated_iso": "2026-09-04T09:42:07.646217-05:00",
+  "last_updated_display": "Fri, Sep 04, 2026 at 09:42 AM CDT",
   "blocks_scanned": [
     1,
     2,
@@ -11,7 +11,7 @@
     2,
     3
   ],
-  "total_scanned_count": 45,
+  "total_scanned_count": 15,
   "showtimes": [
     {
       "block": 1,
@@ -559,14 +559,14 @@
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
       "total_std_open": 3,
-      "best_row_desc": "Row C [FRONT/MID] (1 open, 0 pair(s))",
+      "best_row_desc": "Row D [FRONT/MID] (1 open, 0 pair(s))",
       "rows_breakdown": {
-        "C": {
+        "D": {
           "open_count": 1,
           "pairs": 0,
           "is_back_row": false,
           "seats": [
-            20
+            15
           ]
         },
         "B": {
@@ -937,17 +937,9 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 10,
-      "best_row_desc": "Row E [FRONT/MID] (1 open, 0 pair(s))",
+      "total_std_open": 9,
+      "best_row_desc": "Row B [FRONT/MID] (3 open, 2 pair(s))",
       "rows_breakdown": {
-        "E": {
-          "open_count": 1,
-          "pairs": 0,
-          "is_back_row": false,
-          "seats": [
-            3
-          ]
-        },
         "B": {
           "open_count": 3,
           "pairs": 2,
