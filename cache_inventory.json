@@ -1,6 +1,6 @@
 {
-  "last_updated_iso": "2026-09-04T09:42:07.646217-05:00",
-  "last_updated_display": "Fri, Sep 04, 2026 at 09:42 AM CDT",
+  "last_updated_iso": "2026-09-04T11:39:17.555377-05:00",
+  "last_updated_display": "Fri, Sep 04, 2026 at 11:39 AM CDT",
   "blocks_scanned": [
     1,
     2,
@@ -558,17 +558,9 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 3,
-      "best_row_desc": "Row D [FRONT/MID] (1 open, 0 pair(s))",
+      "total_std_open": 2,
+      "best_row_desc": "Row B [FRONT/MID] (1 open, 0 pair(s))",
       "rows_breakdown": {
-        "D": {
-          "open_count": 1,
-          "pairs": 0,
-          "is_back_row": false,
-          "seats": [
-            15
-          ]
-        },
         "B": {
           "open_count": 1,
           "pairs": 0,
@@ -838,7 +830,7 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 4,
+      "total_std_open": 6,
       "best_row_desc": "Row C [FRONT/MID] (2 open, 0 pair(s))",
       "rows_breakdown": {
         "C": {
@@ -848,6 +840,15 @@
           "seats": [
             4,
             7
+          ]
+        },
+        "B": {
+          "open_count": 2,
+          "pairs": 1,
+          "is_back_row": false,
+          "seats": [
+            12,
+            13
           ]
         },
         "A": {
@@ -978,9 +979,18 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 6,
-      "best_row_desc": "Row B [FRONT/MID] (1 open, 0 pair(s))",
+      "total_std_open": 8,
+      "best_row_desc": "Row E [FRONT/MID] (2 open, 1 pair(s))",
       "rows_breakdown": {
+        "E": {
+          "open_count": 2,
+          "pairs": 1,
+          "is_back_row": false,
+          "seats": [
+            25,
+            26
+          ]
+        },
         "B": {
           "open_count": 1,
           "pairs": 0,
