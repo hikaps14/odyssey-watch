@@ -1,6 +1,6 @@
 {
-  "last_updated_iso": "2026-09-03T17:53:29.236976-05:00",
-  "last_updated_display": "Thu, Sep 03, 2026 at 05:53 PM CDT",
+  "last_updated_iso": "2026-09-03T19:37:54.725699-05:00",
+  "last_updated_display": "Thu, Sep 03, 2026 at 07:37 PM CDT",
   "blocks_scanned": [
     1,
     2,
@@ -838,15 +838,18 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 3,
-      "best_row_desc": "Row C [FRONT/MID] (1 open, 0 pair(s))",
+      "total_std_open": 6,
+      "best_row_desc": "Row C [FRONT/MID] (4 open, 2 pair(s))",
       "rows_breakdown": {
         "C": {
-          "open_count": 1,
-          "pairs": 0,
+          "open_count": 4,
+          "pairs": 2,
           "is_back_row": false,
           "seats": [
-            4
+            4,
+            7,
+            8,
+            9
           ]
         },
         "A": {
@@ -899,7 +902,7 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 3,
+      "total_std_open": 5,
       "best_row_desc": "Row B [FRONT/MID] (1 open, 0 pair(s))",
       "rows_breakdown": {
         "B": {
@@ -911,11 +914,13 @@
           ]
         },
         "A": {
-          "open_count": 2,
-          "pairs": 0,
+          "open_count": 4,
+          "pairs": 1,
           "is_back_row": false,
           "seats": [
             12,
+            15,
+            16,
             19
           ]
         }
@@ -1011,17 +1016,9 @@
       "is_weekend": false,
       "priority_tier": 3,
       "priority_label": "Priority 3 (Mon/Thu Matinee)",
-      "total_std_open": 26,
-      "best_row_desc": "Row D [FRONT/MID] (1 open, 0 pair(s))",
+      "total_std_open": 25,
+      "best_row_desc": "Row B [FRONT/MID] (9 open, 7 pair(s))",
       "rows_breakdown": {
-        "D": {
-          "open_count": 1,
-          "pairs": 0,
-          "is_back_row": false,
-          "seats": [
-            23
-          ]
-        },
         "B": {
           "open_count": 9,
           "pairs": 7,
