@@ -1,6 +1,6 @@
 {
-  "last_updated_iso": "2026-09-06T08:53:34.064183-05:00",
-  "last_updated_display": "Sun, Sep 06, 2026 at 08:53 AM CDT",
+  "last_updated_iso": "2026-09-06T10:53:21.940872-05:00",
+  "last_updated_display": "Sun, Sep 06, 2026 at 10:53 AM CDT",
   "blocks_scanned": [
     1,
     2,
@@ -11,7 +11,7 @@
     2,
     3
   ],
-  "total_scanned_count": 12,
+  "total_scanned_count": 13,
   "showtimes": [
     {
       "block": 1,
@@ -599,9 +599,9 @@
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=641780&CinemarkMovieId=104867&Showtime=2026-09-05T19:15:00"
     },
     {
-      "block": 3,
+      "block": 2,
       "showtime_id": "641784",
-      "date_iso": "2026-09-06",
+      "date_iso": "2026-08-22",
       "date_display": "Sun, Sep 06",
       "time_display": "11:45 AM",
       "day_name": "Sunday",
@@ -618,7 +618,7 @@
     {
       "block": 2,
       "showtime_id": "641785",
-      "date_iso": "2026-08-28",
+      "date_iso": "2026-08-22",
       "date_display": "Sun, Sep 06",
       "time_display": "03:30 PM",
       "day_name": "Sunday",
