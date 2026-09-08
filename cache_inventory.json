@@ -1,6 +1,6 @@
 {
-  "last_updated_iso": "2026-09-07T19:51:54.732645-05:00",
-  "last_updated_display": "Mon, Sep 07, 2026 at 07:51 PM CDT",
+  "last_updated_iso": "2026-09-08T00:26:41.992553-05:00",
+  "last_updated_display": "Tue, Sep 08, 2026 at 12:26 AM CDT",
   "blocks_scanned": [
     1,
     2,
@@ -884,18 +884,9 @@
       "is_weekend": true,
       "priority_tier": 1,
       "priority_label": "Priority 1 (Weekend Prime)",
-      "total_std_open": 9,
-      "best_row_desc": "Row C [FRONT/MID] (2 open, 1 pair(s))",
+      "total_std_open": 7,
+      "best_row_desc": "Row B [FRONT/MID] (1 open, 0 pair(s))",
       "rows_breakdown": {
-        "C": {
-          "open_count": 2,
-          "pairs": 1,
-          "is_back_row": false,
-          "seats": [
-            9,
-            10
-          ]
-        },
         "B": {
           "open_count": 1,
           "pairs": 0,
