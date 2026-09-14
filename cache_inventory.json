@@ -1,6 +1,6 @@
 {
-  "last_updated_iso": "2026-09-13T17:43:44.262059-05:00",
-  "last_updated_display": "Sun, Sep 13, 2026 at 05:43 PM CDT",
+  "last_updated_iso": "2026-09-13T19:36:54.654886-05:00",
+  "last_updated_display": "Sun, Sep 13, 2026 at 07:36 PM CDT",
   "blocks_scanned": [
     1,
     2,
@@ -11,7 +11,7 @@
     2,
     3
   ],
-  "total_scanned_count": 39,
+  "total_scanned_count": 1,
   "showtimes": [
     {
       "block": 1,
@@ -1011,17 +1011,9 @@
       "is_weekend": false,
       "priority_tier": 3,
       "priority_label": "Priority 3 (Mon/Thu Matinee)",
-      "total_std_open": 28,
-      "best_row_desc": "Row G [PREFERRED BACK] (1 open, 0 pair(s))",
+      "total_std_open": 27,
+      "best_row_desc": "Row D [FRONT/MID] (1 open, 0 pair(s))",
       "rows_breakdown": {
-        "G": {
-          "open_count": 1,
-          "pairs": 0,
-          "is_back_row": true,
-          "seats": [
-            3
-          ]
-        },
         "D": {
           "open_count": 1,
           "pairs": 0,
