@@ -1,6 +1,6 @@
 {
-  "last_updated_iso": "2026-09-23T12:34:06.460402-05:00",
-  "last_updated_display": "Wed, Sep 23, 2026 at 12:34 PM CDT",
+  "last_updated_iso": "2026-09-23T18:19:29.788545-05:00",
+  "last_updated_display": "Wed, Sep 23, 2026 at 06:19 PM CDT",
   "blocks_scanned": [
     1,
     2,
@@ -9,9 +9,10 @@
   "allowed_priorities": [
     1,
     2,
-    3
+    3,
+    4
   ],
-  "total_scanned_count": 0,
+  "total_scanned_count": 80,
   "showtimes": [
     {
       "block": 1,
@@ -7386,6 +7387,40 @@
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=646851&CinemarkMovieId=104867&Showtime=2026-09-22T23:00:00"
+    },
+    {
+      "block": 3,
+      "showtime_id": "646855",
+      "date_iso": "2026-09-16",
+      "date_display": "Wed, Sep 23",
+      "time_display": "07:15 PM",
+      "day_name": "Wednesday",
+      "is_weekend": false,
+      "priority_tier": 4,
+      "priority_label": "Priority 4 (Standard)",
+      "total_std_open": 0,
+      "best_row_desc": "Sold Out",
+      "rows_breakdown": {},
+      "prime_back_row_pairs": [],
+      "has_back_row_pair": false,
+      "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=646855&CinemarkMovieId=104867&Showtime=2026-09-23T19:15:00"
+    },
+    {
+      "block": 3,
+      "showtime_id": "646856",
+      "date_iso": "2026-09-16",
+      "date_display": "Wed, Sep 23",
+      "time_display": "11:00 PM",
+      "day_name": "Wednesday",
+      "is_weekend": false,
+      "priority_tier": 4,
+      "priority_label": "Priority 4 (Standard)",
+      "total_std_open": 0,
+      "best_row_desc": "Sold Out",
+      "rows_breakdown": {},
+      "prime_back_row_pairs": [],
+      "has_back_row_pair": false,
+      "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=646856&CinemarkMovieId=104867&Showtime=2026-09-23T23:00:00"
     }
   ]
 }
