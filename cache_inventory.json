@@ -1,6 +1,6 @@
 {
-  "last_updated_iso": "2026-09-25T20:07:00.719485-05:00",
-  "last_updated_display": "Fri, Sep 25, 2026 at 08:07 PM CDT",
+  "last_updated_iso": "2026-09-26T00:41:18.688738-05:00",
+  "last_updated_display": "Sat, Sep 26, 2026 at 12:41 AM CDT",
   "blocks_scanned": [
     1,
     2,
@@ -11,7 +11,7 @@
     2,
     3
   ],
-  "total_scanned_count": 0,
+  "total_scanned_count": 120,
   "showtimes": [
     {
       "block": 1,
@@ -7599,6 +7599,57 @@
       "prime_back_row_pairs": [],
       "has_back_row_pair": false,
       "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=646902&CinemarkMovieId=104867&Showtime=2026-09-25T23:00:00"
+    },
+    {
+      "block": 3,
+      "showtime_id": "646905",
+      "date_iso": "2026-09-16",
+      "date_display": "Sat, Sep 26",
+      "time_display": "11:45 AM",
+      "day_name": "Saturday",
+      "is_weekend": true,
+      "priority_tier": 1,
+      "priority_label": "Priority 1 (Weekend Prime)",
+      "total_std_open": 0,
+      "best_row_desc": "Sold Out",
+      "rows_breakdown": {},
+      "prime_back_row_pairs": [],
+      "has_back_row_pair": false,
+      "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=646905&CinemarkMovieId=104867&Showtime=2026-09-26T11:45:00"
+    },
+    {
+      "block": 3,
+      "showtime_id": "646906",
+      "date_iso": "2026-09-16",
+      "date_display": "Sat, Sep 26",
+      "time_display": "03:30 PM",
+      "day_name": "Saturday",
+      "is_weekend": true,
+      "priority_tier": 1,
+      "priority_label": "Priority 1 (Weekend Prime)",
+      "total_std_open": 0,
+      "best_row_desc": "Sold Out",
+      "rows_breakdown": {},
+      "prime_back_row_pairs": [],
+      "has_back_row_pair": false,
+      "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=646906&CinemarkMovieId=104867&Showtime=2026-09-26T15:30:00"
+    },
+    {
+      "block": 3,
+      "showtime_id": "646907",
+      "date_iso": "2026-09-16",
+      "date_display": "Sat, Sep 26",
+      "time_display": "07:15 PM",
+      "day_name": "Saturday",
+      "is_weekend": true,
+      "priority_tier": 1,
+      "priority_label": "Priority 1 (Weekend Prime)",
+      "total_std_open": 0,
+      "best_row_desc": "Sold Out",
+      "rows_breakdown": {},
+      "prime_back_row_pairs": [],
+      "has_back_row_pair": false,
+      "direct_booking_url": "https://www.cinemark.com/TicketSeatMap/?TheaterId=207&ShowtimeId=646907&CinemarkMovieId=104867&Showtime=2026-09-26T19:15:00"
     }
   ]
 }
